@@ -9,7 +9,7 @@ readme = "README.md"
 taxi_bot = "taxi_bot.cli:main"
 
 [tool.poetry.dependencies]
-python = ">=3.9, <3.12"
+python = ">=3.9, <3.13"
 maxbot = "^0.2.0b2"
 click-config-file = {version = "^0.6.0"}
 Flask-SQLAlchemy = {version = "^3.0.2"}
